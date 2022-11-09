@@ -1,1 +1,13 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+# Readme
+
+## Install - 安裝
+
+```bash
+npm install
+```
+
+## How to run? - 執行
+
+```bash
+npm dev
+```
