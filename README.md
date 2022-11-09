@@ -11,3 +11,14 @@ npm install
 ```bash
 npm dev
 ```
+
+## Framework - 框架
+
+### Frontend - 前端
+
+- [React](https://reactjs.org/)
+- [Next.js](https://nextjs.org/)
+
+### UI
+
+- [Mantine](https://mantine.dev/)
