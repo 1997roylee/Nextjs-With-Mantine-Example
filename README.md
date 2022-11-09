@@ -19,6 +19,10 @@ npm dev
 - [React](https://reactjs.org/)
 - [Next.js](https://nextjs.org/)
 
-### UI
+#### UI - 介面
 
 - [Mantine](https://mantine.dev/)
+
+### Backend - 後端
+
+- [Wordpress](https://wordpress.org/)
