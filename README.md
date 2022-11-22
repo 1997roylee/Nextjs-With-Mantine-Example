@@ -9,7 +9,7 @@ npm install
 ## How to run? - 執行
 
 ```bash
-npm dev
+npm run dev
 ```
 
 ## Framework - 框架
