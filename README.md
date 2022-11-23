@@ -1,11 +1,5 @@
 # Readme
-
-## Install - 安裝
-```bash
-npm install
-```
-
-## If node version need update
+## Install
 install nvm
 ```bash
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.2/install.sh | bash
@@ -22,6 +16,13 @@ then install node.js
 ```bash
 nvm install node
 ```
+
+## Install - 安裝
+```bash
+npm install
+```
+
+
 
 
 
